@@ -1,2 +1,5 @@
-# Binary-Search-Decision-Tree
-This is an example of a binary search tree used as a decision tree
+# Binary Search Decision Tree
+
+### Language: Java
+This is a demonstration of how to use a Binary Search Tree as a Decision Tree.
+We import the text file, then traverse through the tree as indicated.
