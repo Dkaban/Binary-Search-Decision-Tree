@@ -1,0 +1,26 @@
+17
+Are you a gamer?
+Do you like board games?
+PC Gamer?
+Do you hate games in general?
+Should games be in digital formats?
+Console gamer?
+Is PC the best?
+Are games a waste of time?
+It happens.
+If somethings good, why change it.
+I agree!
+That's alright.  No worries!
+Big screen, couch gamer.  Nice!
+They all have their good and bad.
+You're correct.
+It's true!  They are beneficial for many reasons.
+Well, we can all agree to disagree.
+7 15 16
+3 7 8
+4 9 10
+5 11 12
+6 13 14
+1 3 4
+2 5 6
+0 1 2
