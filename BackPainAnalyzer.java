@@ -2,9 +2,7 @@
 //  BackPainAnalyzer.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: March 18th, 2021
-//  COURSE INFO: COMP 2231 ASSIGNMENT 4, QUESTION 1
 //
 // This class is used to display outputs to the user based on a given file containing decision tree data.
 //*************************************************************************************
