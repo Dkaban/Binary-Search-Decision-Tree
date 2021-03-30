@@ -2,9 +2,7 @@
 //  LinkedBinaryTree.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: March 09, 2021
-//  COURSE INFO: COMP 2231 ASSIGNMENT 4, QUESTION 1
 //
 // This is a version of a binary tree that implements the BinaryTreeADT
 // allows for tree functionality, such as getLeft and getRight children nodes etc.
